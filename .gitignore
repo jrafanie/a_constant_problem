@@ -15,3 +15,10 @@
 
 # Ignore Byebug command history file.
 .byebug_history
+
+
+app/models/bar*
+app/models/baz*
+app/models/foo*
+app/models/wat*
+app/models/waat*
